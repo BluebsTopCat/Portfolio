@@ -46,7 +46,7 @@ img {
   width: 100%;
 }
 
-@media (min-width: 1000px) {
+@media screen and (min-width: 991px)  {
   .image-grid {
     display: grid;
     width: 80vh;
